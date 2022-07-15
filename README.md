@@ -36,7 +36,7 @@ Do the above exploration using Arrow as much as possible, while keeping in mind 
 ### Potential Data Sources
 
 - [x] [Apache Arrow JIRA Issues](https://issues.apache.org/jira/projects/ARROW/issues/) raw data (@stephhazlitt to add `.json` to a public AWS bucket)
-- [x] [Apache Arrow JIRA Issues]((https://issues.apache.org/jira/projects/ARROW/issues/)) tidy data (@stephhazlitt to add tidied tabular data a public AWS bucket)
+- [x] [Apache Arrow JIRA Issues](https://issues.apache.org/jira/projects/ARROW/issues/) tidy data (@stephhazlitt to add tidied tabular data a public AWS bucket)
 - [ ] [Apache Arrow](https://github.com/apache/arrow) GitHub Pull Request+Commit data
 - [ ]  [Arrow Rust](https://github.com/apache/arrow-rs) and [Arrow Julia](https://github.com/apache/arrow-julia) GitHub Pull Request+Commit data
 - [ ] [Arrow Rust](https://github.com/apache/arrow-rs) and [Arrow Julia](https://github.com/apache/arrow-julia) GitHub Issue data
