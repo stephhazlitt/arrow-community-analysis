@@ -33,20 +33,15 @@ Do the above exploration using Arrow as much as possible, while keeping in mind 
 - What could we improve about the interface for working with nested data?
 - What could we improve about the interface for working with time-series data?
 
-### Potential Data Sources
+### Data Sources
 
-- [x] [Apache Arrow JIRA Issues](https://issues.apache.org/jira/projects/ARROW/issues/) raw data (@stephhazlitt to add `.json` to a public AWS bucket)
-- [x] [Apache Arrow JIRA Issues](https://issues.apache.org/jira/projects/ARROW/issues/) tidy data (@stephhazlitt to add tidied tabular data a public AWS bucket)
-- [ ] [Apache Arrow](https://github.com/apache/arrow) GitHub Pull Request+Commit data
-- [ ]  [Arrow Rust](https://github.com/apache/arrow-rs) and [Arrow Julia](https://github.com/apache/arrow-julia) GitHub Pull Request+Commit data
-- [ ] [Arrow Rust](https://github.com/apache/arrow-rs) and [Arrow Julia](https://github.com/apache/arrow-julia) GitHub Issue data
-
+See [`/data-raw/README.md`](https://github.com/stephhazlitt/arrow-community-analysis/data-raw/README.md)
 
 
 ### Getting Help or Reporting an Issue
 
 To report bugs/issues/feature requests, please file an
-[issue](https://github.com/stephhazlitt/barrow-jira-exploration/issues/).
+[issue](https://github.com/stephhazlitt/arrow-community-analysis/issues/).
 
 
 ### How to Contribute
