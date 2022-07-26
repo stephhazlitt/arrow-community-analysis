@@ -38,3 +38,7 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 *html
+
+# data-raw
+data-raw/*.html
+
